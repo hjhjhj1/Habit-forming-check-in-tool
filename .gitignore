@@ -35,6 +35,9 @@ Thumbs.db
 
 # Data
 backend/data/
+backend/habits/*.json
+!backend/habits/default.json
+backend/records/
 
 # Testing
 coverage/
